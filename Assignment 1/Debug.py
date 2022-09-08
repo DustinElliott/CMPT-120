@@ -13,11 +13,11 @@ def main():
     print("2 + 2")
 
     # insert your name into this variable
-    name = ""
+    name = "Joe"
     print("Hello, my name is ", name)
 
     # insert your best friend's name here and have it print out
-    name2 = ""
+    name2 = "John"
     print("Hello, my best friend's name is ", name)
 
     # put your age here
